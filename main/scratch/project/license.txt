@@ -1,0 +1,16 @@
+Dolom Ux License GLM 1.0
+<dolom-ux.github.io>
+
+Dolom Ux is LICENSED. Unlike MIT, this license is for purpose use.
+
+1. Developers
+Developers is a warranty of this license, meaning this license is for developers.
+
+2. Developers Without Dolom Ux License GLM
+Developers without this license is non-profit, unlicensed to License GLM.
+
+3. Guardrails
+Guardrails in the License GLM is a best idea, but here is the guardrails that blocks people who:
+- have wrong codes.
+- have inappropriate README or other LICENSEs.
+- and, have messed up codes.
